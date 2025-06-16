@@ -9,15 +9,13 @@
 
 ### DevOps Engineer  [Ericsson-Montreal]                     
 May 2024– May 2025  <br />
-● Developed a cloud-native lifecycle management tool using Go and Vue.js, automating resource management and 
-product lifecycle operations.  <br />
 ● Used Go, Kubernetes, and Robot to manage deployments for scaling Ericsson’s 5G networking components.   <br />
 ● Packaged services & microservices into Docker containers to ensure consistency across environments.  <br />
 ● Developed and optimized CI/CD pipelines using GitLab CI and Docker to streamline builds & deployments to 
 different environments, reducing pipeline runtime by 25%.  <br />
-● Set up monitoring systems (Prometheus, Grafana, Promtail) to track the performance & health of UCC services.  <br />
+● Set up monitoring systems (Prometheus, Grafana, Promtail) to track the performance & health of Network services.  <br />
 
-### ASP.Net Developer Intern [Canadian Food Inspection Agency (CFIA)-Montreal]                                    
+### ASP.Net Developer Intern & Test Automation Developer [Canadian Food Inspection Agency (CFIA)-Montreal]                                    
 Jan 2023– Aug 2023  <br />
 ● Created automated test cases in Python through Robot Framework and the Selenium library to reduce 70 hours 
 of manual testing per sprint and maximize efficiency for common workflows in the portal side of the digital 
@@ -38,5 +36,4 @@ ASP.NET. Designed and implemented the frontend and UX components using Figma.  <
 ## Technical Skills
 Programming│ Java |C# |Python │ASP.Net │ JavaScript |Go │C++ │SQL |GraphQL |React |Kubernetes |Docker |HTML/CSS 
 Frameworks│ASP.NET Core │Robot │React │Node.js │Gin │Gitlab CICD │Azure DevOps │EXPO │Selenium 
-Developer Tools│ |Git |Docker │Google Cloud Platform │VS Code │Visual Studio │ Eclipse │Microsoft Azure │ XRM toolbox 
-Languages │ French │ English │ Indonesian
+Developer Tools│Git |Docker │Google Cloud Platform │VS Code │Visual Studio │ Eclipse │Microsoft Azure │ XRM toolbox 
