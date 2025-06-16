@@ -2,10 +2,30 @@
 
 - 🌱 I’m currently learning SAP Development
 - 💬 Ask me about DevOps and Automation
-- 📫 How to reach me: mahanaimyo@gmail.com
-- ⚡ Fun fact: I have a Boston Terrier
+- 📫 mahanaimyo@gmail.com
+- 💼 https://www.linkedin.com/in/mahanaim-yo/
+- 🐶 Fun fact: I have a Boston Terrier
 
-## Experience
+## 🔨 Projects
+- [IFGF Montreal Website](https://github.com/AyoMahan/Soen-491-IFGF-Montreal-Website)
+  - Official website for the International Full Gospel Fellowship Church in Montreal. 
+  - Stack: Vue, JavaScript, HTML, CSS, Docker 
+
+- [Crafted Duels](https://github.com/AyoMahan/ConUHacks-IX-Project)
+  - Creative multiplayer game using Artificial intelligence to create battle scenarios and determine victory. ConUHacks 2025 Annual 24h Hackathon
+  - Stack: Svelte, JavaScript, CSS, HTML, Dalle
+  
+- [Condo Management System](https://github.com/Ahmad-Elmahallawy/iCondo)
+  - comprehensive software solution encompassing a simplified condo management application and a companion website
+  - Stack: TypeScript, React, Node.js, PostgreSQL, Expo.
+
+- [Delivery Service WebApp](https://github.com/Mika24boss/DeliveryServiceWebApp-SOEN343)
+  - Wandering Mangoes third-party delivery service web application
+  - Stack: Svelte, Javascript
+  
+
+
+## 👔Experience
 
 ### DevOps Engineer  [Ericsson-Montreal]                     
 May 2024– May 2025  <br />
@@ -33,7 +53,7 @@ ASP.NET. Designed and implemented the frontend and UX components using Figma.  <
 ● Chosen among the top 4 in the People’s Capstone Choice awards.  <br />
 
 
-## Technical Skills
+## 🔎Technical Skills
 Programming│ Java |C# |Python │ASP.Net │ JavaScript |Go │C++ │SQL |GraphQL |React |Kubernetes |Docker |HTML/CSS 
 Frameworks│ASP.NET Core │Robot │React │Node.js │Gin │Gitlab CICD │Azure DevOps │EXPO │Selenium 
 Developer Tools│Git |Docker │Google Cloud Platform │VS Code │Visual Studio │ Eclipse │Microsoft Azure │ XRM toolbox 
