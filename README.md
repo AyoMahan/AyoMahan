@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning SAP Development
 - 💬 Ask me about DevOps and Automation
-- 📫 mahanaimyo@gmail.com
-- 💼 https://www.linkedin.com/in/mahanaim-yo/
+- 📫 [Email me!](mahanaimyo@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahanaim-yo/)
 - 🐶 Fun fact: I have a Boston Terrier
 
 ## 🔨 Projects
